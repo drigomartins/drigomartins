@@ -29,25 +29,6 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<h2 align="center">Me encontre <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
-<p align="center">
-<a href="mailto: drigo.oliveira94@gmail.com">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:drigo.oliveira94@gmail.com"/>
-</a>
-<a href="https://www.linkedin.com/in/drigomartins/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drigomartins/"/>
-</a>
-</p>
-
-
-<h2 align="center">
-  Meu Grafíco de Contribuição<img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
-<p align="center">
-  <img src="https://github.com/drigomartins/drigomartins/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 <h2 align="center">
   Meus Status no Github<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
