@@ -4,14 +4,6 @@
 <!-- <img src=".png" /> -->
 
 <p align="center">
- 
- <img src="https://badges.pufler.dev/visits/drigomartins/drigomartins"/> 
- <img src="https://badges.pufler.dev/repos/drigomartins"/>
- <img src="https://badges.pufler.dev/commits/monthly/drigomartins" />
-
-</p>
-
-<p align="center">
   Olá, Atualmente eu trabalho no desenvolvimento de aplicações web e mobile utilizando stacks baseadas na línguagem Javascript✨. 
   ex: React, React Native, Next.js, Expo, Node.🤓
 </p>  
