@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<!-- <img src=".png" /> -->
+<img src="https://i.pinimg.com/originals/7c/2c/59/7c2c59a43cc8df06ef9033b9548f8427.gif" />
 
 <p align="center">
   Olá, Atualmente eu trabalho no desenvolvimento de aplicações web e mobile utilizando stacks baseadas na línguagem Javascript✨. 
