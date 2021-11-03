@@ -14,21 +14,17 @@
 
 <h2 align="center">Minhas Principais Stacks <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
  
-<table border="0">
-  <tr>
-    <td valign="top">
+<div>
      <p>- React.js</p>
      <p>- React Native</p>
      <p>- Next.js</p>
      <p>- Expo</p>
      <p>- Jest</p>
-    </td>
-    <td valign="top">
+    </div>
+    <div>
      <p>- Context </p>
      <p>- Redux</p>
      <p>- Puppeteer</p>
      <p>- Styled Components</p>
      <p>- Node</p>
-    </td>
-  </tr>
-</table>
+    </div>
