@@ -14,7 +14,7 @@
 
 <h2 align="center">Minhas Principais Stacks <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
  
-<table>
+<table border="0">
   <tr>
     <td valign="top">
      <p>- React.js</p>
