@@ -17,18 +17,18 @@
 <table>
   <tr>
     <td valign="top">
-     - React.js
-     - React Native
-     - Next.js
-     - Expo
-     - Jest
+     <p>- React.js</p>
+     <p>- React Native</p>
+     <p>- Next.js</p>
+     <p>- Expo</p>
+     <p>- Jest</p>
     </td>
     <td valign="top">
-     - Context 
-     - Redux
-     - Puppeteer
-     - Styled Components
-     - Node
+     <p>- Context </p>
+     <p>- Redux</p>
+     <p>- Puppeteer</p>
+     <p>- Styled Components</p>
+     <p>- Node</p>
     </td>
   </tr>
 </table>
