@@ -1,6 +1,6 @@
 ### Olá! eu sou o Rodrigo Martins! 👋
 
-- 🔭 Desenvolvedor Front-End
+- 🔭 Desenvolvedor Front-End Senior
 - 🌱 Aperfeiçoando os conhecimentos em desenvolvimento web
 - 🎮 Nerd / Otaku / Gamer
 
@@ -13,5 +13,5 @@
 <h2 align="center">Minhas Principais Stacks <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
  
 <div align="center">
-  <p>React.js | React Native | Next.js | Expo | Jest | Context | Redux | Puppeteer | Styled Components | Node | PHP</p>
+  <p>React.js | React Native | Next.js | Expo | Node | Angular</p>
 </div>
