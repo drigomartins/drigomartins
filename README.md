@@ -1,8 +1,6 @@
 ### Olá! eu sou o Rodrigo Martins! 👋
 
 - 🔭 Desenvolvedor Front-End Senior
-- 🌱 Aperfeiçoando os conhecimentos em desenvolvimento web
-- 🎮 Nerd / Otaku / Gamer
 
 <div align="center">
   <a href="https://github.com/drigomartins">
