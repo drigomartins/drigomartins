@@ -9,12 +9,6 @@
  👩‍🎓 Pós graduado em Desenvolvimento de aplicativos<br>
 </div>
 
-<div align="center">
-  <a href="https://github.com/larialbu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drigomartins&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drigomartins&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
-
 <div style="display: inline_block" align="center"><br>
   <img  alt="Rodrigo-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
   <img  alt="Rodrigo-Ts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
