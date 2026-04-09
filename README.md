@@ -1,34 +1,83 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
+# 👋 Fala, eu sou o Rodrigo Martins
 
----
-<div align="center">
-  
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Rodrigo Martins
- 👩🏻‍💻 Sou um desenvolvedor fullstack, criativo e apaixonado por tecnologia.<br>
- ⚡ Formado em Desenvolvimento de Jogos pelo IESB<br>
- 👩‍🎓 Pós graduado em Desenvolvimento de aplicativos<br>
-</div>
-
-<div style="display: inline_block" align="center"><br>
-  <img  alt="Rodrigo-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
-  <img  alt="Rodrigo-Ts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
-  <img  alt="Rodrigo-React"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;
-  <img  alt="Rodrigo-Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">&nbsp;
-  <img  alt="Rodrigo-Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">&nbsp;
-  <img alt="Rodrigo-ReactContext"  src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react">&nbsp;
-  <img  alt="Rodrigo-ReactQuery"  src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">&nbsp;
-  <img alt="Rodrigo-ReactRouter"  src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">&nbsp;
-  <img  alt="Rodrigo-ReactHookForm"  src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white">&nbsp;
-  <img  alt="Rodrigo-Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;
-</div>
- <br>
+💻 Desenvolvedor Front-End Sênior  
+📍 Goiânia, Brasil  
+🚀 Criador de +60 apps publicados na Play Store  
+💰 Gerando renda com produtos digitais  
 
 ---
 
-<div align="center"> 
-  <a href="https://instagram.com/rodr.martins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:drigo.oliveira94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/drigomartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 🧠 Sobre mim
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
+Sou desenvolvedor com +8 anos de experiência, especializado no ecossistema JavaScript/TypeScript.
+
+Atuo criando aplicações web e mobile com foco em:
+- ⚡ Performance
+- 🎯 Experiência do usuário (UX/UI)
+- 📈 Escalabilidade
+- 💰 Monetização de produtos digitais
+
+---
+
+## 🛠️ Tech Stack
+
+### Front-end
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+### Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Banco de dados
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Outros
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📱 Meus projetos
+
+🚀 Já publiquei mais de 60 aplicativos na Play Store  
+📊 Foco em nichos com alto volume de downloads  
+💡 Experiência com:
+- Apps de conteúdo (wallpapers, entretenimento)
+- ASO (App Store Optimization)
+- Monetização com AdMob / Rewarded Ads
+
+---
+
+## 💼 Experiência
+
+- 🏢 Embraer (via Iteris)
+- 🏦 Itaú Unibanco
+- 🛍️ Lojas Renner
+- 📊 Conube
+- 🚀 Xvision
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/drigomartins  
+- 📧 Email: drigo.oliveira94@mail.com  
+- 🧑‍💻 GitHub: https://github.com/drigomartins  
+
+---
+
+⭐ Se curtir algum projeto, deixa uma estrela!
+
